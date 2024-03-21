@@ -9,20 +9,20 @@ const Hovercards = () => {
         image="\Images\marvel.png"
       />
       <Hovercard
-        video="public\Videos\pixar.mp4"
-        image="public\Images\pixar.png"
+        video="\Videos\pixar.mp4"
+        image="\Images\pixar.png"
       />
       <Hovercard
-        video="public\Videos\disney.mp4"
-        image="public\Images\disney.png"
+        video="\Videos\disney.mp4"
+        image="\Images\disney.png"
       />
       <Hovercard
-        video="public\Videos\national-geographic.mp4"
-        image="public\Images\nationalG.png"
+        video="\Videos\national-geographic.mp4"
+        image="\Images\nationalG.png"
       />
       <Hovercard
-        video="public\Videos\star-wars.mp4"
-        image="public\Images\starwar.png"
+        video="\Videos\star-wars.mp4"
+        image="\Images\starwar.png"
       />
     </div>
   );
