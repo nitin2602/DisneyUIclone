@@ -5,24 +5,24 @@ const Hovercards = () => {
   return (
     <div className="flex gap-2 md:gap-5 p-2 px-5 md:px-16 ">
       <Hovercard
-        video="src\assets\Videos\marvel.mp4"
-        image="src\assets\Images\marvel.png"
+        video="public\Videos\marvel.mp4"
+        image="public\Images\marvel.png"
       />
       <Hovercard
-        video="src\assets\Videos\pixar.mp4"
-        image="src\assets\Images\pixar.png"
+        video="public\Videos\pixar.mp4"
+        image="public\Images\pixar.png"
       />
       <Hovercard
-        video="src\assets\Videos\disney.mp4"
-        image="src\assets\Images\disney.png"
+        video="public\Videos\disney.mp4"
+        image="public\Images\disney.png"
       />
       <Hovercard
-        video="src\assets\Videos\national-geographic.mp4"
-        image="src\assets\Images\nationalG.png"
+        video="public\Videos\national-geographic.mp4"
+        image="public\Images\nationalG.png"
       />
       <Hovercard
-        video="src\assets\Videos\star-wars.mp4"
-        image="src\assets\Images\starwar.png"
+        video="public\Videos\star-wars.mp4"
+        image="public\Images\starwar.png"
       />
     </div>
   );
