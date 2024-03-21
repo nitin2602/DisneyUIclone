@@ -5,8 +5,8 @@ const Hovercards = () => {
   return (
     <div className="flex gap-2 md:gap-5 p-2 px-5 md:px-16 ">
       <Hovercard
-        video="public\Videos\marvel.mp4"
-        image="public\Images\marvel.png"
+        video="\Videos\marvel.mp4"
+        image="\Images\marvel.png"
       />
       <Hovercard
         video="public\Videos\pixar.mp4"
